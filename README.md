@@ -2,7 +2,7 @@
 
 ## Build Instructions
 
-make
+make\
 sudo make install
 
 ## Installation Instructions
